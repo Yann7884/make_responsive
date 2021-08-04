@@ -1,0 +1,9 @@
+font: raleway
+colors: pick colors on models
+
+NB:
+- each section must be built on an HTML sheet.
+- the whole thing must fit on the visible viewport (you must not be able to scroll on desktop)
+- only one style sheet is allowed
+- each section must be responsive
+- respect the hierarchy of files and folders imposed
